@@ -1,2 +1,3 @@
 Here is my rating of books and articles
 1. Logical Foundations of Cyber-Physical Systems (Andre Platzer).
+2. Типы в языках программирования (Бенджамин Пирс, 2009)
