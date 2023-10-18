@@ -3,4 +3,4 @@ Here is my rating of books and articles
 2. Типы в языках программирования (Бенджамин Пирс, 2009)
 3. Компьютерное зрение. Теория и алгоритмы (Рейнхард Клетте)
 4. Лямбда-исчисление. Его синтаксис и семантика (Х.Барендрегт)
-~~ 5. Domain Specific Languages Теория и Практика (SeminarDSL.pdf) ~~
+~~5. Domain Specific Languages Теория и Практика (SeminarDSL.pdf)~~
